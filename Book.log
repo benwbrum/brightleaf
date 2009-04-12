@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=latex 2009.3.30)  9 APR 2009 22:42
+This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=latex 2009.3.30)  12 APR 2009 16:29
 entering extended mode
 **Book.tex
 (Book.tex
@@ -316,12 +316,7 @@ Package verse [2008/07/23] emulated by memoir.
 
 ("C:\Program Files\MiKTeX 2.7\tex\latex\memoir\mempatch.sty"
 File: mempatch.sty 2008/07/23 v6.0 Patches for memoir class v1.6180339
-))
-
-LaTeX Warning: Unused global option(s):
-    [garamond].
-
-(Book.aux)
+)) (Book.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -340,7 +335,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 8.
- [1
+
+[1
 
 ] [2
 
@@ -433,12 +429,12 @@ No file Book.bbl.
 
 ] (Book.aux) ) 
 Here is how much of TeX's memory you used:
- 3205 strings out of 95305
- 40613 string characters out of 1183045
- 134034 words of memory out of 1500000
- 6453 multiletter control sequences out of 110000
+ 3204 strings out of 95305
+ 40602 string characters out of 1183045
+ 132918 words of memory out of 1500000
+ 6452 multiletter control sequences out of 110000
  9194 words of font info for 32 fonts, out of 1200000 for 2000
  14 hyphenation exceptions out of 8191
  26i,11n,20p,1445b,222s stack positions out of 5000i,500n,10000p,200000b,5000s
 
-Output written on Book.dvi (44 pages, 157612 bytes).
+Output written on Book.dvi (44 pages, 157668 bytes).

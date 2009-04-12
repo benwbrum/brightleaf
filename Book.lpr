@@ -11,7 +11,7 @@ Bookmark#7=0
 Bookmark#8=0
 Bookmark#9=0
 CaretPos.X=0
-CaretPos.Y=1
+CaretPos.Y=0
 CharSet=def
 FileName=Book.tex
 FoldedLines=
@@ -66,15 +66,15 @@ Bookmark#6=0
 Bookmark#7=0
 Bookmark#8=0
 Bookmark#9=0
-CaretPos.X=19
-CaretPos.Y=140
+CaretPos.X=0
+CaretPos.Y=1189
 CharSet=def
 FileName=chap1\chap1.tex
-FoldedLines=53-10:147-31:179-38:218-38:257-35:293-17:311-14:326-7:334-5:340-13:354-23
+FoldedLines=53-10:179-38:218-38:293-17:311-14:326-7:334-5:340-13
 IsMainFile=no
 Opened=yes
 ScrollPos.X=0
-ScrollPos.Y=0
+ScrollPos.Y=2095
 SearchListCount=0
 ShowSyntax=yes
 SpellChecking=yes
@@ -185,7 +185,7 @@ Page=0
 Zoom=9
 
 [Project\DVI\1]
-Page=7
+Page=40
 Zoom=7
 
 [Project\DVI\2]
@@ -224,7 +224,7 @@ Zoom=9
 FileName=1
 FirstPage=0
 Magnifier=5
-Page=6
+Page=19
 PaperHeight=297
 PaperWidth=210
 Zoom=6
