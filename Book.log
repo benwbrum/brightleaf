@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=latex 2009.3.30)  12 APR 2009 16:29
+This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=latex 2009.3.30)  15 APR 2009 21:42
 entering extended mode
 **Book.tex
 (Book.tex
@@ -418,23 +418,30 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
  [32] [33]
 Missing character: There is no – in font cmbx12!
- [34] [35] [36] [37] [38]
+ [34] [35] [36] [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+Underfull \vbox (badness 1442) has occurred while \output is active []
+
+ [39]
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
-) (chap2/chap2.tex [39] [40
-
-])
+)
+(chap2/chap2.tex [40])
 No file Book.bbl.
-[41] [42
+[41
+
+] [42
 
 ] (Book.aux) ) 
 Here is how much of TeX's memory you used:
  3204 strings out of 95305
  40602 string characters out of 1183045
- 132918 words of memory out of 1500000
+ 133918 words of memory out of 1500000
  6452 multiletter control sequences out of 110000
  9194 words of font info for 32 fonts, out of 1200000 for 2000
  14 hyphenation exceptions out of 8191
  26i,11n,20p,1445b,222s stack positions out of 5000i,500n,10000p,200000b,5000s
 
-Output written on Book.dvi (44 pages, 157668 bytes).
+Output written on Book.dvi (44 pages, 161332 bytes).
