@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=latex 2009.3.30)  15 APR 2009 21:42
+This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=pdflatex 2008.7.29)  26 APR 2009 14:27
 entering extended mode
 **Book.tex
 (Book.tex
@@ -15,7 +15,7 @@ e document class
 \c@@memmarkcntra=\count80
 ("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2007/12/12 v1.6 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in pdf mode not detected.
+Package ifpdf Info: pdfTeX in pdf mode detected.
 )
 Class memoir Info: An `ifetex' package is being emulated on input line 247.
 
@@ -316,29 +316,107 @@ Package verse [2008/07/23] emulated by memoir.
 
 ("C:\Program Files\MiKTeX 2.7\tex\latex\memoir\mempatch.sty"
 File: mempatch.sty 2008/07/23 v6.0 Patches for memoir class v1.6180339
-)) (Book.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-[1
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphics.sty"
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-] [2
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2008/07/16 v0.04k Graphics/color for pdfTeX
+\Gread@gobject=\count135
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+) (Book.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+ ("C:\Program Files\MiKTeX 2.7\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count136
+\scratchdimen=\dimen149
+\scratchbox=\box28
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen150
+\MPnumerator=\count140
+\everyMPtoPDFconversion=\toks24
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+ [1
+
+{C:/Documents and Settings/All Users/Application Data/MiKTeX/2.7/pdftex/config/
+pdftex.map}] [2
 
 ] (ack/ack.tex) (chap1/chap1.tex [1
 
@@ -369,20 +447,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 5274) has occurred while \output is active []
 
  [11]
+<covered_wagon.jpg, id=49, 337.5009pt x 83.8332pt>
+File: covered_wagon.jpg Graphic file (type jpg)
+ <use covered_wagon.jpg>
+[12 <covered_wagon.jpg>]
 Missing character: There is no … in font cmbx12!
 Missing character: There is no … in font cmbx12!
-
-[12]
-Overfull \hbox (46.83412pt too wide) in paragraph at lines 381--401
-[][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 Missing character: There is no … in font cmsl10!
 Missing character: There is no … in font cmsl10!
  [13]
+Overfull \hbox (46.83412pt too wide) in paragraph at lines 385--405
+[] 
+ []
+
 [14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -390,58 +467,130 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [16]
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
- [17]
+ [17] <smokehouse.jpg, id=70, 320.1561pt x 140.56516pt>
+File: smokehouse.jpg Graphic file (type jpg)
+
+<use smokehouse.jpg>
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
- [18]
+
+<second_floor_diagram.jpg, id=71, 335.3328pt x 351.9549pt>
+File: second_floor_diagram.jpg Graphic file (type jpg)
+
+<use second_floor_diagram.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <smokehouse.jpg>]
+Underfull \vbox (badness 2529) has occurred while \output is active []
+
+ [19 <second_floor_diagram.jpg>]
+<girl_in_parlor_with_cow_painting.jpg, id=78, 320.8788pt x 155.01915pt>
+File: girl_in_parlor_with_cow_painting.jpg Graphic file (type jpg)
+
+<use girl_in_parlor_with_cow_painting.jpg>
 Missing character: There is no é in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
- [19]
+ [20 <girl_in_parlor_with_cow_painting.jpg>]
 Missing character: There is no – in font cmr10!
- [20] [21]
-Missing character: There is no ½ in font cmr10!
-Missing character: There is no – in font cmr10!
- [22]
-Missing character: There is no – in font cmr10!
- [23] [24]
-Missing character: There is no – in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no ” in font cmr10!
-Missing character: There is no – in font cmr10!
- [25] [26] [27] [28] [29] [30]
-Missing character: There is no “ in font cmr10!
-Missing character: There is no ” in font cmr10!
+ <ground_floor_diagram.jpg, id=82, 339.669pt x 295.5843pt>
+File: ground_floor_diagram.jpg Graphic file (type jpg)
 
-[31]
+<use ground_floor_diagram.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21] [22 <ground_floor_diagram.jpg>] [23]
+<kitchen.jpg, id=93, 338.2236pt x 170.5572pt>
+File: kitchen.jpg Graphic file (type jpg)
+ <use kitchen.jpg> [24 <kitchen.jpg>]
+Missing character: There is no – in font cmr10!
+ [25] <coffin_chair.jpg, id=100, 273.1806pt x 145.9854pt>
+File: coffin_chair.jpg Graphic file (type jpg)
+
+<use coffin_chair.jpg> [26 <coffin_chair.jpg>]
+<diagram_of_farm.jpg, id=104, 659.8251pt x 446.6286pt>
+File: diagram_of_farm.jpg Graphic file (type jpg)
+
+<use diagram_of_farm.jpg> [27 <diagram_of_farm.jpg>]
+Missing character: There is no – in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
- [32] [33]
-Missing character: There is no – in font cmbx12!
- [34] [35] [36] [37]
+Missing character: There is no – in font cmr10!
+ [28]
+<spring_area.jpg, id=111, 433.62pt x 283.2984pt>
+File: spring_area.jpg Graphic file (type jpg)
+ <use spring_area.jpg>
+Underfull \vbox (badness 3417) has occurred while \output is active []
+
+ [29 <spring_area.jpg>] [30]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
-Underfull \vbox (badness 1442) has occurred while \output is active []
+ [31]
+[32] <farm_buildings.jpg, id=125, 389.5353pt x 153.2124pt>
+File: farm_buildings.jpg Graphic file (type jpg)
 
- [39]
+<use farm_buildings.jpg> [33 <farm_buildings.jpg>]
+<curing_barn.jpg, id=129, 390.9807pt x 256.5585pt>
+File: curing_barn.jpg Graphic file (type jpg)
+ <use curing_barn.jpg>
+[34 <curing_barn.jpg>] <stripping_barn.jpg, id=133, 437.9562pt x 164.0529pt>
+File: stripping_barn.jpg Graphic file (type jpg)
+
+<use stripping_barn.jpg> [35 <stripping_barn.jpg>]
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
-)
-(chap2/chap2.tex [40])
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ” in font cmr10!
+ [36]
+File: covered_wagon.jpg Graphic file (type jpg)
+
+<use covered_wagon.jpg> [37]
+Missing character: There is no – in font cmbx12!
+ [38] [39] [40] [41]
+<woman_fishing.jpg, id=157, 483.4863pt x 122.1363pt>
+File: woman_fishing.jpg Graphic file (type jpg)
+ <use woman_fishing.jpg>
+[42 <woman_fishing.jpg>]
+<renan_store_sketch.jpg, id=161, 496.4949pt x 167.6664pt>
+File: renan_store_sketch.jpg Graphic file (type jpg)
+
+<use renan_store_sketch.jpg> [43 <renan_store_sketch.jpg>]
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ” in font cmr10!
+ [44]
+<renan_map.jpg, id=168, 664.1613pt x 453.8556pt>
+File: renan_map.jpg Graphic file (type jpg)
+ <use renan_map.jpg>)
+(chap2/chap2.tex [45] [46 <renan_map.jpg>])
 No file Book.bbl.
-[41
+[47
 
-] [42
+] [48
 
-] (Book.aux) ) 
+] (Book.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3204 strings out of 95305
- 40602 string characters out of 1183045
- 133918 words of memory out of 1500000
- 6452 multiletter control sequences out of 110000
+ 3955 strings out of 95304
+ 50795 string characters out of 1183018
+ 142930 words of memory out of 1500000
+ 7166 multiletter control sequences out of 110000
  9194 words of font info for 32 fonts, out of 1200000 for 2000
  14 hyphenation exceptions out of 8191
- 26i,11n,20p,1445b,222s stack positions out of 5000i,500n,10000p,200000b,5000s
+ 28i,11n,20p,1445b,222s stack positions out of 5000i,500n,10000p,200000b,5000s
+<C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmbx10.pfb><C:/Program Fi
+les/MiKTeX 2.7/fonts/type1/bluesky/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.7/f
+onts/type1/bluesky/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesk
+y/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmsl10.pfb><
+C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmsy10.pfb><C:/Program Files
+/MiKTeX 2.7/fonts/type1/bluesky/cm/cmti10.pfb>
+Output written on Book.pdf (50 pages, 3823331 bytes).
+PDF statistics:
+ 207 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on Book.dvi (44 pages, 161332 bytes).
