@@ -11,6 +11,7 @@
 \author{Mary Brumfield Garnett}
 
 \begin{document}
+\frontmatter
 %\maketitle
 \begin{titlingpage}
 \vspace*{\droptitle}
@@ -45,9 +46,12 @@ Mary Brumfield Garnett
 
 
 \end{titlingpage}
+\pagestyle{empty}
 
-\frontmatter
 \input{ack/ack.tex}
+\pagestyle{headings}
+
+\mainmatter
 \pagenumbering{arabic}
 \input{chap1/chap1.tex}
 \input{chap2/chap2.tex}
