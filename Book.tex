@@ -53,8 +53,14 @@ Mary Brumfield Garnett
 
 \mainmatter
 \pagenumbering{arabic}
+% the setcounter secnumdepth suppresses numbering of sections and 
+% subsections -- only chapters will get numbers at secnumdepth=0
+\setcounter{secnumdepth}{0}
 \input{chap1/chap1.tex}
 \input{chap2/chap2.tex}
+\appendix
+\input{apdx/benstale.tex}
+\input{apdx/juby.tex}
 
 % *************** Bibliography ***************
 \bibliographystyle{plain}

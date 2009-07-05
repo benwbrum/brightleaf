@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=pdflatex 2008.7.29)  30 APR 2009 22:06
+This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=pdflatex 2008.7.29)  5 JUL 2009 17:31
 entering extended mode
 **Book.tex
 (Book.tex
@@ -640,21 +640,35 @@ File: renan_map_rot_90.jpg Graphic file (type jpg)
 File: family_photo.jpg Graphic file (type jpg)
  <use family_photo.jpg>)
 (chap2/chap2.tex [48] [49 <renan_map_rot_90.jpg>] [50 <family_photo.jpg>])
-No file Book.bbl.
-[51
+(apdx/benstale.tex [51
 
 ] [52
 
-] (Book.aux)
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+[54]) (apdx/juby.tex [55] [56
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57])
+No file Book.bbl.
+
+Overfull \vbox (10.54448pt too high) has occurred while \output is active []
+
+
+[58] (Book.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3996 strings out of 95304
- 51768 string characters out of 1183018
- 142938 words of memory out of 1500000
- 7201 multiletter control sequences out of 110000
+ 4007 strings out of 95304
+ 51929 string characters out of 1183018
+ 142932 words of memory out of 1500000
+ 7205 multiletter control sequences out of 110000
  7362 words of font info for 26 fonts, out of 1200000 for 2000
  14 hyphenation exceptions out of 8191
  29i,11n,20p,1445b,286s stack positions out of 5000i,500n,10000p,200000b,5000s
@@ -665,9 +679,9 @@ y/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr17.pfb><C
 :/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmsl10.pfb><C:/Program Files/
 MiKTeX 2.7/fonts/type1/bluesky/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.7/fonts
 /type1/bluesky/cm/cmti10.pfb>
-Output written on Book.pdf (56 pages, 6749355 bytes).
+Output written on Book.pdf (62 pages, 6767051 bytes).
 PDF statistics:
- 241 PDF objects out of 1000 (max. 8388607)
+ 260 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
