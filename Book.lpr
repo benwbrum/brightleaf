@@ -10,15 +10,15 @@ Bookmark#6=0
 Bookmark#7=0
 Bookmark#8=0
 Bookmark#9=0
-CaretPos.X=2
-CaretPos.Y=56
+CaretPos.X=0
+CaretPos.Y=41
 CharSet=def
 FileName=Book.tex
 FoldedLines=
 IsMainFile=yes
 Opened=yes
 ScrollPos.X=0
-ScrollPos.Y=42
+ScrollPos.Y=22
 SearchListCount=0
 ShowSyntax=yes
 SpellChecking=yes
@@ -27,34 +27,6 @@ UseThesaurus=yes
 WrapLine=yes
 
 [Files\10]
-ActiveFilters=
-Bookmark#0=0
-Bookmark#1=0
-Bookmark#2=0
-Bookmark#3=0
-Bookmark#4=0
-Bookmark#5=0
-Bookmark#6=0
-Bookmark#7=0
-Bookmark#8=0
-Bookmark#9=0
-CaretPos.X=0
-CaretPos.Y=0
-CharSet=def
-FileName=diagram_of_farm.jpg
-FoldedLines=
-IsMainFile=no
-Opened=no
-ScrollPos.X=0
-ScrollPos.Y=0
-SearchListCount=0
-ShowSyntax=yes
-SpellChecking=no
-TabOrder=-1
-UseThesaurus=no
-WrapLine=no
-
-[Files\11]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -82,7 +54,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\12]
+[Files\11]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -110,7 +82,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\13]
+[Files\12]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -138,7 +110,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\14]
+[Files\13]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -166,7 +138,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\15]
+[Files\14]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -194,7 +166,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\16]
+[Files\15]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -222,7 +194,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\17]
+[Files\16]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -250,7 +222,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\18]
+[Files\17]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -278,7 +250,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\19]
+[Files\18]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -306,35 +278,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\1]
-ActiveFilters=
-Bookmark#0=0
-Bookmark#1=0
-Bookmark#2=0
-Bookmark#3=0
-Bookmark#4=0
-Bookmark#5=0
-Bookmark#6=0
-Bookmark#7=0
-Bookmark#8=0
-Bookmark#9=0
-CaretPos.X=0
-CaretPos.Y=0
-CharSet=def
-FileName=ack\ack.tex
-FoldedLines=
-IsMainFile=no
-Opened=yes
-ScrollPos.X=0
-ScrollPos.Y=1
-SearchListCount=0
-ShowSyntax=yes
-SpellChecking=yes
-TabOrder=2
-UseThesaurus=yes
-WrapLine=yes
-
-[Files\20]
+[Files\19]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -362,7 +306,35 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\21]
+[Files\1]
+ActiveFilters=
+Bookmark#0=0
+Bookmark#1=115
+Bookmark#2=0
+Bookmark#3=0
+Bookmark#4=0
+Bookmark#5=0
+Bookmark#6=0
+Bookmark#7=0
+Bookmark#8=0
+Bookmark#9=0
+CaretPos.X=0
+CaretPos.Y=148
+CharSet=def
+FileName=chap1\chap1.tex
+FoldedLines=791-7:799-11:811-11:852-15:868-11:880-27:908-19:928-17:1078-14:1093-29:1123-23:1147-17:1223-2:1226-16
+IsMainFile=no
+Opened=yes
+ScrollPos.X=0
+ScrollPos.Y=225
+SearchListCount=0
+ShowSyntax=yes
+SpellChecking=yes
+TabOrder=1
+UseThesaurus=yes
+WrapLine=yes
+
+[Files\20]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -375,9 +347,37 @@ Bookmark#7=0
 Bookmark#8=0
 Bookmark#9=0
 CaretPos.X=0
-CaretPos.Y=4
+CaretPos.Y=3
 CharSet=def
 FileName=chap2\chap2.tex
+FoldedLines=
+IsMainFile=no
+Opened=yes
+ScrollPos.X=0
+ScrollPos.Y=0
+SearchListCount=0
+ShowSyntax=yes
+SpellChecking=yes
+TabOrder=2
+UseThesaurus=yes
+WrapLine=yes
+
+[Files\21]
+ActiveFilters=
+Bookmark#0=0
+Bookmark#1=0
+Bookmark#2=0
+Bookmark#3=0
+Bookmark#4=0
+Bookmark#5=0
+Bookmark#6=0
+Bookmark#7=0
+Bookmark#8=0
+Bookmark#9=0
+CaretPos.X=3
+CaretPos.Y=0
+CharSet=def
+FileName=apdx\benstale.tex
 FoldedLines=
 IsMainFile=no
 Opened=yes
@@ -402,15 +402,15 @@ Bookmark#6=0
 Bookmark#7=0
 Bookmark#8=0
 Bookmark#9=0
-CaretPos.X=661
-CaretPos.Y=26
+CaretPos.X=0
+CaretPos.Y=6
 CharSet=def
-FileName=apdx\benstale.tex
+FileName=apdx\juby.tex
 FoldedLines=
 IsMainFile=no
 Opened=yes
 ScrollPos.X=0
-ScrollPos.Y=92
+ScrollPos.Y=0
 SearchListCount=0
 ShowSyntax=yes
 SpellChecking=yes
@@ -433,7 +433,7 @@ Bookmark#9=0
 CaretPos.X=0
 CaretPos.Y=0
 CharSet=def
-FileName=apdx\juby.tex
+FileName=ack\ack.tex
 FoldedLines=
 IsMainFile=no
 Opened=no
@@ -446,10 +446,10 @@ TabOrder=-1
 UseThesaurus=yes
 WrapLine=yes
 
-[Files\2]
+[Files\24]
 ActiveFilters=
 Bookmark#0=0
-Bookmark#1=125
+Bookmark#1=0
 Bookmark#2=0
 Bookmark#3=0
 Bookmark#4=0
@@ -459,22 +459,50 @@ Bookmark#7=0
 Bookmark#8=0
 Bookmark#9=0
 CaretPos.X=0
-CaretPos.Y=0
+CaretPos.Y=6
 CharSet=def
-FileName=chap1\chap1.tex
-FoldedLines=799-7:807-11:819-11:831-28:860-15:876-11:888-27:916-19:936-17:954-20:975-30:1006-30:1037-48:1086-14:1101-29:1131-23:1155-17:1173-30:1204-26:1231-2:1234-16
+FileName=title.tex
+FoldedLines=
 IsMainFile=no
 Opened=yes
 ScrollPos.X=0
-ScrollPos.Y=0
+ScrollPos.Y=1
 SearchListCount=0
 ShowSyntax=yes
 SpellChecking=yes
-TabOrder=1
+TabOrder=7
 UseThesaurus=yes
 WrapLine=yes
 
-[Files\3]
+[Files\25]
+ActiveFilters=
+Bookmark#0=0
+Bookmark#1=0
+Bookmark#2=0
+Bookmark#3=0
+Bookmark#4=0
+Bookmark#5=0
+Bookmark#6=0
+Bookmark#7=0
+Bookmark#8=0
+Bookmark#9=0
+CaretPos.X=52
+CaretPos.Y=9
+CharSet=def
+FileName=preface\preface.tex
+FoldedLines=
+IsMainFile=no
+Opened=yes
+ScrollPos.X=0
+ScrollPos.Y=8
+SearchListCount=0
+ShowSyntax=yes
+SpellChecking=yes
+TabOrder=5
+UseThesaurus=yes
+WrapLine=yes
+
+[Files\2]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -492,17 +520,17 @@ CharSet=def
 FileName=Book.bib
 FoldedLines=
 IsMainFile=no
-Opened=no
+Opened=yes
 ScrollPos.X=0
 ScrollPos.Y=0
 SearchListCount=0
 ShowSyntax=yes
 SpellChecking=yes
-TabOrder=-1
+TabOrder=6
 UseThesaurus=yes
 WrapLine=yes
 
-[Files\4]
+[Files\3]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -530,7 +558,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\5]
+[Files\4]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -558,7 +586,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\6]
+[Files\5]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -586,7 +614,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\7]
+[Files\6]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -614,7 +642,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\8]
+[Files\7]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -642,7 +670,7 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
-[Files\9]
+[Files\8]
 ActiveFilters=
 Bookmark#0=0
 Bookmark#1=0
@@ -670,8 +698,36 @@ TabOrder=-1
 UseThesaurus=no
 WrapLine=no
 
+[Files\9]
+ActiveFilters=
+Bookmark#0=0
+Bookmark#1=0
+Bookmark#2=0
+Bookmark#3=0
+Bookmark#4=0
+Bookmark#5=0
+Bookmark#6=0
+Bookmark#7=0
+Bookmark#8=0
+Bookmark#9=0
+CaretPos.X=0
+CaretPos.Y=0
+CharSet=def
+FileName=diagram_of_farm.jpg
+FoldedLines=
+IsMainFile=no
+Opened=no
+ScrollPos.X=0
+ScrollPos.Y=0
+SearchListCount=0
+ShowSyntax=yes
+SpellChecking=no
+TabOrder=-1
+UseThesaurus=no
+WrapLine=no
+
 [Files]
-Count=24
+Count=26
 
 [Project]
 ActiveFilters=
