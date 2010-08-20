@@ -1,0 +1,8 @@
+Possible approaches:
+
+Barbara generates FTM reports in RTF, I convert RTF to LaTeX
+
+Barbara generates GEDCOM, I convert GEDCOM to LaTeX
+
+Barbara generates GEDCOM, I import into Gramps and generate reports.
+Barbara generates GEDCOM, I import into LifeLines and generate reports.
