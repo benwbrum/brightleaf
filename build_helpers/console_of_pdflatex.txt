@@ -1,0 +1,156 @@
+15-10-2011 10:34:54: START  /b/c1/c"C:\Program Files\LEd\Batches\pdflatex.bat" "C:\Documents and Settings\benwbrum\My Documents\dev\brightleaf" "Book.tex" C:
+This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7)
+entering extended mode
+(Book.tex
+LaTeX2e <2005//12//01>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2008-06-18, ngerman-x-2008-06-18, french, loaded.
+("C:\Program Files\MiKTeX 2.7\tex\latex\memoir\memoir.cls"
+Document Class: memoir 2009//02//06 v1.6180339e configurable book, report, articl
+e document class
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\ifpdf.sty")
+("C:\Program Files\MiKTeX 2.7\tex\generic\ifxetex\ifxetex.sty")
+("C:\Program Files\MiKTeX 2.7\tex\generic\oberdiek\ifluatex.sty")
+("C:\Program Files\MiKTeX 2.7\tex\latex\memoir\mem10.clo")
+("C:\Program Files\MiKTeX 2.7\tex\latex\memoir\mempatch.sty"))
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphicx.sty"
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\keyval.sty")
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphics.sty"
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\trig.sty")
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\graphics.cfg")
+("C:\Program Files\MiKTeX 2.7\tex\latex\pdftex-def\pdftex.def"))) (Book.aux
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+LaTeX /b/c12/cWarning:/b/c0/c Label `' multiply defined.
+) ("C:\Program Files\MiKTeX 2.7\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (title.tex <leaf_sketch.jpg, id=1, 304.9794pt x 307.8702pt>
+<use leaf_sketch.jpg> [1{C://Documents and Settings//All Users//Application Data//M
+iKTeX//2.7//pdftex//config//pdftex.map} <leaf_sketch.jpg>] [2]) (Book.toc [1]
+/b/c4/cOverfull/b/c0/c \hbox (0.89993pt too wide) in paragraph at lines 54--54
+ [][] []\OT1//cmr//bx//n//10 Henry An-der-son Brum-field's Broth-ers and Step-broth
+-ers dur- 
+) (ack//ack.tex <carrie.jpg, id=17, 226.9278pt x 296.307pt> <use carrie.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [2]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [3 <carrie
+.jpg>]) (preface//preface.tex [4])
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [5]
+[6] (chap1//chap1.tex <henry.jpg, id=34, 323.0469pt x 380.1402pt>
+<use henry.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+<julia.jpg, id=35, 314.3745pt x 375.0813pt> <use julia.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [1]
+[2 <henry.jpg>]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [3 <julia.
+jpg>] <three_ships.jpg, id=46, 430.7292pt x 139.4811pt> <use three_ships.jpg>
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [4 <three_
+ships.jpg>] ("C:\Program Files\MiKTeX 2.7\tex\latex\base\omscmr.fd")
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [5]
+[6] <boy_with_backpack.jpg, id=58, 387.3672pt x 132.9768pt>
+<use boy_with_backpack.jpg> [7 <boy_with_backpack.jpg>]
+<henry_uniform.jpg, id=62, 234.8775pt x 302.0886pt> <use henry_uniform.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [8]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 1708) has occurred while \output is active [9 <henry_u
+niform.jpg>] [10]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 6268) has occurred while \output is active [11]
+[12] <wagon_and_team.jpg, id=80, 319.4334pt x 65.043pt>
+<use wagon_and_team.jpg> [13 <wagon_and_team.jpg>]
+/b/c4/cOverfull/b/c0/c \hbox (46.83412pt too wide) in paragraph at lines 404--424
+[] 
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [14]
+[15] <house_photo_1970.jpg, id=90, 222.5916pt x 221.50755pt>
+<use house_photo_1970.jpg>
+/b/c4/cUnderfull/b/c0/c \vbox (badness 3525) has occurred while \output is active [16 <house_
+photo_1970.jpg>]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [17]
+[18] <house_photo_1920.jpg, id=101, 196.5744pt x 240.29774pt>
+<use house_photo_1920.jpg> [19 <house_photo_1920.jpg>]
+<smokehouse.jpg, id=105, 320.1561pt x 140.56516pt> <use smokehouse.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+<second_floor_diagram.jpg, id=106, 335.3328pt x 351.9549pt>
+<use second_floor_diagram.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+/b/c4/cUnderfull/b/c0/c \vbox (badness 6268) has occurred while \output is active [20]
+[21 <smokehouse.jpg>]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 2529) has occurred while \output is active [22 <second
+_floor_diagram.jpg>]
+<girl_in_parlor_with_cow_painting.jpg, id=116, 320.8788pt x 155.01915pt>
+<use girl_in_parlor_with_cow_painting.jpg>
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [23 <girl_
+in_parlor_with_cow_painting.jpg>]
+<ground_floor_diagram.jpg, id=121, 339.669pt x 295.5843pt>
+<use ground_floor_diagram.jpg> [24 <ground_floor_diagram.jpg>] [25]
+<kitchen.jpg, id=128, 338.2236pt x 170.5572pt> <use kitchen.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [26]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 1681) has occurred while \output is active [27 <kitche
+n.jpg>] [28] <coffin_chair.jpg, id=138, 273.1806pt x 145.9854pt>
+<use coffin_chair.jpg>
+<diagram_of_farm_rot_90.jpg, id=139, 446.6286pt x 659.8251pt>
+<use diagram_of_farm_rot_90.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+/b/c4/cUnderfull/b/c0/c \vbox (badness 6300) has occurred while \output is active [29 <coffin
+_chair.jpg>]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 2818) has occurred while \output is active [30 <diagra
+m_of_farm_rot_90.jpg>] [31] [32]
+<spring_area.jpg, id=153, 433.62pt x 283.2984pt> <use spring_area.jpg> [33 <spr
+ing_area.jpg>]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [34]
+[35] <farm_buildings.jpg, id=164, 389.5353pt x 153.2124pt>
+<use farm_buildings.jpg> [36 <farm_buildings.jpg>]
+<curing_barn.jpg, id=168, 390.9807pt x 256.5585pt> <use curing_barn.jpg>
+[37 <curing_barn.jpg>] <stripping_barn.jpg, id=172, 437.9562pt x 164.0529pt>
+<use stripping_barn.jpg> [38 <stripping_barn.jpg>] [39]
+<covered_wagon.jpg, id=179, 337.5009pt x 83.8332pt> <use covered_wagon.jpg>
+[40 <covered_wagon.jpg>] [41] [42]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [43]
+<woman_fishing.jpg, id=193, 483.4863pt x 122.1363pt> <use woman_fishing.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [44]
+<renan_store_sketch.jpg, id=197, 496.4949pt x 167.6664pt>
+<use renan_store_sketch.jpg>
+LaTeX /b/c12/cWarning:/b/c0/c `h' float specifier changed to `ht'.
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [45 <woman
+_fishing.jpg>] [46 <renan_store_sketch.jpg>]
+<shack_photo.jpg, id=204, 464.6961pt x 308.5929pt> <use shack_photo.jpg>
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [47 <shack
+_photo.jpg>] <renan_map_rot_90.jpg, id=209, 453.8556pt x 664.1613pt>
+<use renan_map_rot_90.jpg> <family_photo.jpg, id=210, 435.0654pt x 331.7193pt>
+<use family_photo.jpg>) (chap2//chap2.tex [48] [49 <renan_map_rot_90.jpg>]
+[50 <family_photo.jpg>]) (apdx//benstale.tex [51] [52]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [53]
+[54]) (apdx//mollyletter.tex [55] [56]) (apdx//juby.tex [57] [58]
+/b/c4/cUnderfull/b/c0/c \vbox (badness 10000) has occurred while \output is active [59])
+(apdx//civilwarhenry.tex
+/b/c4/cOverfull/b/c0/c \vbox (10.54448pt too high) has occurred while \output is active
+[60]) (apdx//civilwarbrothers.tex [61] [62]) (apdx//bibliography.tex [63]
+[64])
+No file Book.bbl.
+[65] [66] (Book.aux)
+LaTeX /b/c12/cWarning:/b/c0/c There were multiply-defined labels.
+ )
+(see the transcript file for additional information)<C://Program Files//MiKTeX 2.
+7//fonts//type1//bluesky//cm//cmbx10.pfb><C://Program Files//MiKTeX 2.7//fonts//type1//bl
+uesky//cm//cmbx12.pfb><C://Program Files//MiKTeX 2.7//fonts//type1//bluesky//cm//cmr10.p
+fb><C://Program Files//MiKTeX 2.7//fonts//type1//bluesky//cm//cmr12.pfb><C://Program Fi
+les//MiKTeX 2.7//fonts//type1//bluesky//cm//cmr17.pfb><C://Program Files//MiKTeX 2.7//fo
+nts//type1//bluesky//cm//cmsl10.pfb><C://Program Files//MiKTeX 2.7//fonts//type1//bluesk
+y//cm//cmsy10.pfb><C://Program Files//MiKTeX 2.7//fonts//type1//bluesky//cm//cmti10.pfb>
+Output written on Book.pdf (74 pages, 7540871 bytes).
+Transcript written on Book.log.
+Compile result: /b0 Error(s), /e/b/c12/c25 Warning(s), /e/b/c2/c73 Page(s).
+15-10-2011 10:34:56: STOP
