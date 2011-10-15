@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=pdflatex 2008.7.29)  4 MAY 2010 21:51
+This is pdfTeX, Version 3.1415926-1.40.8-beta-20080627 (MiKTeX 2.7) (preloaded format=pdflatex 2008.7.29)  15 OCT 2011 10:34
 entering extended mode
 **Book.tex
 (Book.tex
@@ -483,13 +483,13 @@ File: three_ships.jpg Graphic file (type jpg)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4 <three_ships.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 101.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 103.
 
  ("C:\Program Files\MiKTeX 2.7\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 103.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -521,7 +521,7 @@ File: wagon_and_team.jpg Graphic file (type jpg)
 Missing character: There is no … in font cmbx12!
 Missing character: There is no … in font cmbx12!
  [13 <wagon_and_team.jpg>]
-Overfull \hbox (46.83412pt too wide) in paragraph at lines 400--420
+Overfull \hbox (46.83412pt too wide) in paragraph at lines 404--424
 [] 
  []
 
@@ -533,29 +533,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: house_photo_1970.jpg Graphic file (type jpg)
 
 <use house_photo_1970.jpg>
+Underfull \vbox (badness 3525) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
+ [16 <house_photo_1970.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
-[17 <house_photo_1970.jpg>]
-<house_photo_1920.jpg, id=98, 196.5744pt x 240.29774pt>
+ [17]
+[18] <house_photo_1920.jpg, id=101, 196.5744pt x 240.29774pt>
 File: house_photo_1920.jpg Graphic file (type jpg)
 
 <use house_photo_1920.jpg>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
-[18] [19 <house_photo_1920.jpg>]
+ [19 <house_photo_1920.jpg>]
 <smokehouse.jpg, id=105, 320.1561pt x 140.56516pt>
 File: smokehouse.jpg Graphic file (type jpg)
  <use smokehouse.jpg>
-Missing character: There is no “ in font cmr10!
-Missing character: There is no ” in font cmr10!
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 <second_floor_diagram.jpg, id=106, 335.3328pt x 351.9549pt>
 File: second_floor_diagram.jpg Graphic file (type jpg)
@@ -565,24 +560,24 @@ File: second_floor_diagram.jpg Graphic file (type jpg)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 6268) has occurred while \output is active []
 
- [20 <smokehouse.jpg>]
-Underfull \vbox (badness 2158) has occurred while \output is active []
+ [20]
+[21 <smokehouse.jpg>]
+Underfull \vbox (badness 2529) has occurred while \output is active []
 
- [21 <second_floor_diagram.jpg>]
-<girl_in_parlor_with_cow_painting.jpg, id=113, 320.8788pt x 155.01915pt>
+ [22 <second_floor_diagram.jpg>]
+<girl_in_parlor_with_cow_painting.jpg, id=116, 320.8788pt x 155.01915pt>
 File: girl_in_parlor_with_cow_painting.jpg Graphic file (type jpg)
 
 <use girl_in_parlor_with_cow_painting.jpg>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 Missing character: There is no é in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
-[22]
 Missing character: There is no – in font cmr10!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [23 <girl_in_parlor_with_cow_painting.jpg>]
 <ground_floor_diagram.jpg, id=121, 339.669pt x 295.5843pt>
 File: ground_floor_diagram.jpg Graphic file (type jpg)
@@ -594,51 +589,57 @@ File: kitchen.jpg Graphic file (type jpg)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 1681) has occurred while \output is active []
+
+ [27 <kitchen.jpg>]
 Missing character: There is no – in font cmr10!
-
-Underfull \vbox (badness 1789) has occurred while \output is active []
-
- [27 <kitchen.jpg>] <coffin_chair.jpg, id=135, 273.1806pt x 145.9854pt>
+ [28] <coffin_chair.jpg, id=138, 273.1806pt x 145.9854pt>
 File: coffin_chair.jpg Graphic file (type jpg)
 
 <use coffin_chair.jpg>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[28] <diagram_of_farm_rot_90.jpg, id=139, 446.6286pt x 659.8251pt>
+<diagram_of_farm_rot_90.jpg, id=139, 446.6286pt x 659.8251pt>
 File: diagram_of_farm_rot_90.jpg Graphic file (type jpg)
 
 <use diagram_of_farm_rot_90.jpg>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Missing character: There is no – in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no ” in font cmr10!
-[29 <coffin_chair.jpg>]
+
+Underfull \vbox (badness 6300) has occurred while \output is active []
+
+ [29 <coffin_chair.jpg>]
 Underfull \vbox (badness 2818) has occurred while \output is active []
 
  [30 <diagram_of_farm_rot_90.jpg>]
 Missing character: There is no – in font cmr10!
- [31] <spring_area.jpg, id=150, 433.62pt x 283.2984pt>
-File: spring_area.jpg Graphic file (type jpg)
-
-<use spring_area.jpg> [32 <spring_area.jpg>] [33] [34] [35]
-<farm_buildings.jpg, id=164, 389.5353pt x 153.2124pt>
-File: farm_buildings.jpg Graphic file (type jpg)
- <use farm_buildings.jpg>
-[36 <farm_buildings.jpg>] <curing_barn.jpg, id=168, 390.9807pt x 256.5585pt>
-File: curing_barn.jpg Graphic file (type jpg)
-
-<use curing_barn.jpg> [37 <curing_barn.jpg>]
-<stripping_barn.jpg, id=172, 437.9562pt x 164.0529pt>
-File: stripping_barn.jpg Graphic file (type jpg)
- <use stripping_barn.jpg>
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
+Missing character: There is no – in font cmr10!
+ [31] [32]
+<spring_area.jpg, id=153, 433.62pt x 283.2984pt>
+File: spring_area.jpg Graphic file (type jpg)
+ <use spring_area.jpg> [33 <spring_area.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[38 <stripping_barn.jpg>]
+ [34]
+[35] <farm_buildings.jpg, id=164, 389.5353pt x 153.2124pt>
+File: farm_buildings.jpg Graphic file (type jpg)
+
+<use farm_buildings.jpg> [36 <farm_buildings.jpg>]
+<curing_barn.jpg, id=168, 390.9807pt x 256.5585pt>
+File: curing_barn.jpg Graphic file (type jpg)
+ <use curing_barn.jpg>
+[37 <curing_barn.jpg>] <stripping_barn.jpg, id=172, 437.9562pt x 164.0529pt>
+File: stripping_barn.jpg Graphic file (type jpg)
+
+<use stripping_barn.jpg>
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ” in font cmr10!
+ [38 <stripping_barn.jpg>]
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
  [39]
@@ -648,29 +649,47 @@ File: covered_wagon.jpg Graphic file (type jpg)
 [40 <covered_wagon.jpg>]
 Missing character: There is no – in font cmbx12!
 Missing character: There is no – in font cmsl10!
- [41] [42] [43]
+ [41] [42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
 <woman_fishing.jpg, id=193, 483.4863pt x 122.1363pt>
 File: woman_fishing.jpg Graphic file (type jpg)
  <use woman_fishing.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44 <woman_fishing.jpg>] <renan_store_sketch.jpg, id=197, 496.4949pt x 167.666
-4pt>
+ [44]
+<renan_store_sketch.jpg, id=197, 496.4949pt x 167.6664pt>
 File: renan_store_sketch.jpg Graphic file (type jpg)
 
-<use renan_store_sketch.jpg> [45 <renan_store_sketch.jpg>] [46]
+<use renan_store_sketch.jpg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45 <woman_fishing.jpg>] [46 <renan_store_sketch.jpg>]
+<shack_photo.jpg, id=204, 464.6961pt x 308.5929pt>
+File: shack_photo.jpg Graphic file (type jpg)
+ <use shack_photo.jpg>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47 <shack_photo.jpg>]
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
-
-<renan_map_rot_90.jpg, id=204, 453.8556pt x 664.1613pt>
+ <renan_map_rot_90.jpg, id=209, 453.8556pt x 664.1613pt>
 File: renan_map_rot_90.jpg Graphic file (type jpg)
 
-<use renan_map_rot_90.jpg> [47]
-<family_photo.jpg, id=209, 435.0654pt x 331.7193pt>
+<use renan_map_rot_90.jpg> <family_photo.jpg, id=210, 435.0654pt x 331.7193pt>
 File: family_photo.jpg Graphic file (type jpg)
- <use family_photo.jpg>)
-(chap2/chap2.tex [48] [49 <renan_map_rot_90.jpg>] [50 <family_photo.jpg>])
-(apdx/benstale.tex [51
+
+<use family_photo.jpg>) (chap2/chap2.tex [48] [49 <renan_map_rot_90.jpg>]
+[50 <family_photo.jpg>]) (apdx/benstale.tex [51
 
 ] [52
 
@@ -709,13 +728,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4040 strings out of 95304
- 52555 string characters out of 1183018
+ 4045 strings out of 95304
+ 52649 string characters out of 1183018
  142932 words of memory out of 1500000
- 7218 multiletter control sequences out of 110000
+ 7222 multiletter control sequences out of 110000
  7670 words of font info for 27 fonts, out of 1200000 for 2000
  14 hyphenation exceptions out of 8191
- 28i,11n,20p,1445b,286s stack positions out of 5000i,500n,10000p,200000b,5000s
+ 28i,11n,20p,1445b,252s stack positions out of 5000i,500n,10000p,200000b,5000s
 <C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmbx10.pfb><C:/Program Fi
 les/MiKTeX 2.7/fonts/type1/bluesky/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.7/f
 onts/type1/bluesky/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesk
@@ -723,9 +742,9 @@ y/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr17.pfb><C
 :/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmsl10.pfb><C:/Program Files/
 MiKTeX 2.7/fonts/type1/bluesky/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.7/fonts
 /type1/bluesky/cm/cmti10.pfb>
-Output written on Book.pdf (74 pages, 6783148 bytes).
+Output written on Book.pdf (74 pages, 7540871 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
+ 300 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
