@@ -2,8 +2,7 @@
 \documentclass[letterpaper]{memoir}
 \usepackage{graphicx}
 
-
-
+\input{style.tex}
 
 
 \title{Bright Leaf}
@@ -13,27 +12,27 @@
 \begin{document}
 \frontmatter
 %\maketitle
-\input{title.tex}
-\pagestyle{empty}
-\tableofcontents
-\input{ack/ack.tex}
-\input{preface/preface.tex}
-\pagestyle{headings}
+	\input{title.tex}
+	\pagestyle{empty}
+	\tableofcontents
+	\input{ack/ack.tex}
+	\input{preface/preface.tex}
+	\pagestyle{ruled}
 
 \mainmatter
-\pagenumbering{arabic}
-% the setcounter secnumdepth suppresses numbering of sections and 
-% subsections -- only chapters will get numbers at secnumdepth=0
-\setcounter{secnumdepth}{0}
-\input{chap1/chap1.tex}
-\input{chap2/chap2.tex}
-\appendix
-\input{apdx/benstale.tex}
-\input{apdx/mollyletter.tex}
-\input{apdx/juby.tex}
-\input{apdx/civilwarhenry.tex}
-\input{apdx/civilwarbrothers.tex}
-\input{apdx/bibliography.tex}
+	\pagenumbering{arabic}
+	% the setcounter secnumdepth suppresses numbering of sections and 
+	% subsections -- only chapters will get numbers at secnumdepth=0
+	\setcounter{secnumdepth}{0}
+	\input{chap1/chap1.tex}
+	\input{chap2/chap2.tex}
+	\appendix
+	\input{apdx/benstale.tex}
+	\input{apdx/mollyletter.tex}
+	\input{apdx/juby.tex}
+	\input{apdx/civilwarhenry.tex}
+	\input{apdx/civilwarbrothers.tex}
+	\input{apdx/bibliography.tex}
 
 % *************** Bibliography ***************
 \bibliographystyle{plain}
